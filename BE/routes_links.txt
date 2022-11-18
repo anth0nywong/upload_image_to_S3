@@ -1,0 +1,14 @@
+Backend API:
+
+POST
+/login
+/register
+/createVehicle
+/apply
+GET
+/logout
+
+
+/getAllVehicle (main page)
+/getVehicleList/:id (for owner)
+/getApplication
